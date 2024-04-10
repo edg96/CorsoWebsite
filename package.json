@@ -1,7 +1,7 @@
 {
   "name": "Corso-Website",
   "version": "1.0.0",
-  "description": "A simple website for courses and training (Udemy style).",
+  "description": "A simple website for a fictional academy that also provides different services.",
   "main": "index.js",
   "scripts": {
     "sass:build": "sass --no-source-map scss:css",
