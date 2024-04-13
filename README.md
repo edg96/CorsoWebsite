@@ -41,7 +41,7 @@ To add your own custom styles, use the `styles.scss` file.
 
 ## "Why this project?" and a long advice
 
-Welcome to my cozy online corner, created for the sheer joy of learning and sharpening our skills. Take a peek at [my GitHub profile](https://github.com/edg96), and you'll find projects that highlight my journey with [Python](https://www.python.org/) and [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter).
+Welcome to my cozy online corner, created for the sheer joy of learning and sharpening our skills. Take a peek at [my GitHub profile](https://github.com/edg96), and you'll find projects that highlight my journey with [Python](https://www.python.org/) (also with some [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - my trusted companion in crafting user-friendly GUI applications).
 
 [Bootstrap](https://getbootstrap.com/) is our hero for those eager to launch a website decked with ready-to-use components straight off the shelf, simplifying the front-end development process significantly. It's the go-to for getting your digital creation up and running with minimal fuss.
 
